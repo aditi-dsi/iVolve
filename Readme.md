@@ -1,5 +1,8 @@
 # iVolve-Realtime Chat Application
- Real time Messaging application built on MERN Stack and Socket.io (Web Sockets)
+ Real time Messaging application built on MERN Stack and Socket.io (Web Sockets) <br/>
+  ~ Developed by Aditi Bindal
+ <br/><br/>
+ <br/><br/>
 
  ## How to run locally?
  ``` 
@@ -19,8 +22,11 @@ $ cd frontend
 ```
 $ npm start
 ```
+<br/><br/>
 
 wait for the application to start in browser...😊
+<br/><br/>
+<br/><br/>
 
 ## A Sneak - Peek inside iVolve
 ### 1. Authentication with Password Encryption
